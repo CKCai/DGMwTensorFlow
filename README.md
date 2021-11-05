@@ -52,7 +52,7 @@
 
 ![](./Pictures/DGM_inf_allGPU.png)
 
-(3) **Layer 2 - layer 4 on GPU, layer 1 and layer 5  on CPU **
+(3) **Layer 2 - layer 4 on GPU, layer 1 and layer 5  on CPU**
 
 ![](./Pictures/DGM_inf_CPUwGPU.png)
 
