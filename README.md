@@ -56,6 +56,9 @@
 
 ![](./Pictures/DGM_inf_CPUwGPU.png)
 
+(4) **Results**
+![](./Pictures/DGM_inf_CaseResult.png)
+
 ### Experimental environment
 
 * **Hardware**
