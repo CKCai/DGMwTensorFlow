@@ -1,4 +1,0 @@
-
-1. All CPU
-2. All GPU
-3. L2 ~ L4 on GPU, L1 & L5 on CPU
