@@ -1,7 +1,13 @@
  DGMwTensorFlow
 ======
 
-[TOC]
+- [DGMwTensorFlow](#dgmwtensorflow)
+    + [Framework of deep galerkin model (DGM)](#framework-of-deep-galerkin-model--dgm-)
+    + [Training function and  Inference function](#training-function-and--inference-function)
+    + [Training Process](#training-process)
+    + [Inference accuracy and results](#inference-accuracy-and-results)
+    + [Speedup strategies for the Model Inference](#speedup-strategies-for-the-model-inference)
+    + [Reference](#reference)
 
 *****
 
