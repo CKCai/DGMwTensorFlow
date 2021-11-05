@@ -10,51 +10,51 @@
 
 * Each DGM layer
 
-![](.\Pictures\DGM_singlelayer.png)
+![](./Pictures/DGM_singlelayer.png)
 
 ### Training function and  Inference function
 
 * Objective function
 
-  ![](.\Pictures\DGM_ObjectiveFunction.png)
+  ![](./Pictures/DGM_ObjectiveFunction.png)
 
 * Target model
 
-  ![](.\Pictures\DGM_targetmodel.jpg)
+  ![](./Pictures/DGM_targetmodel.jpg)
 
 * Calculation of inference accuracy
 
-![](.\Pictures\DGM_infformula.jpg)
+![](./Pictures/DGM_infformula.jpg)
 
 ### Training Process
 
-![](.\Pictures\DGM_TrainingProcess.png)
+![](./Pictures/DGM_TrainingProcess.png)
 
 * First 10 training epoch
 
-![](.\Pictures\DGM_10ep_training.png)
+![](./Pictures/DGM_10ep_training.png)
 
 ### Inference accuracy and results
 
-![](.\Pictures\DGM_InferenceAccuracy.png)
+![](./Pictures/DGM_InferenceAccuracy.png)
 
 * Inference results at 6 given moment in time
 
-  ![](.\Pictures\DGM_inferencePlot.png)
+  ![](./Pictures/DGM_inferencePlot.png)
 
 ### Speedup strategies for the Model Inference
 
 (1) **All CPU**
 
-![](.\Pictures\DGM_inf_allCPU.png)
+![](./Pictures/DGM_inf_allCPU.png)
 
 (2) **All GPU**
 
-![](.\Pictures\DGM_inf_allGPU.png)
+![](./Pictures/DGM_inf_allGPU.png)
 
 (3) **Layer 2 - layer 4 on GPU, layer 1 and layer 5  on CPU **
 
-![](.\Pictures\DGM_inf_CPUwGPU.png)
+![](./Pictures/DGM_inf_CPUwGPU.png)
 
 ### Experimental environment
 
