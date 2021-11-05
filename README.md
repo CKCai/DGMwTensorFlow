@@ -6,7 +6,7 @@
 *****
 
 ### Framework of deep galerkin model (DGM)
-![](.\Pictures\DGM_Framework.png)
+![](./Pictures/DGM_Framework.png)
 
 * Each DGM layer
 
